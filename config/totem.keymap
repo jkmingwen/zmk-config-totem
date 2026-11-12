@@ -113,7 +113,7 @@ label= "NUM"                               ;
 // ╷           ╷           ╷           ╷           ╷           ╷           ╷   ╷           ╷           ╷           ╷           ╷           ╷           ╷
 
                 &kp N1      &kp N2      &kp N3      &kp N4      &kp N5          &kp N6      &kp N7       &kp N8        &kp N9      &kp N0
-                &mt LGUI F1 &mt LALT F2 &mt LCTRL F3 &mt LSHFT F4 &kp F5        &kp F6      &mt RSHFT F7 &mt RSHFT F8  &mt RALT F9 &kp RGUI F10
+                &mt LGUI F1 &mt LALT F2 &mt LCTRL F3 &mt LSHFT F4 &kp F5        &kp F6      &mt RSHFT F7 &mt RSHFT F8  &mt RALT F9 &mt RGUI F10
     &trans      &kp F11     &kp F12     &trans      &trans      &kp LBKT        &kp RBKT    &kp MINUS    &kp EQUAL     &kp FSLH    &kp BSLH   &trans
                                         &trans      &kp SPACE   &kp LCTRL       &kp RET     &kp BSPC     &trans
                         >;
